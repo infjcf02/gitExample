@@ -4,7 +4,7 @@
     one_minute_ago: 
     minutes_ago: 
     one_hour_ago: 
-    hours_ago: hey hey hey
+    hours_ago: hey 
     yesterday: 
     days_ago: 
     weeks_ago: 
@@ -12,8 +12,7 @@
   errors:
     server: 
     client: 
-    set_waypoint: 
-    add_to_playlist: 
+    set_waypoint:  
     deploy_weapon: 
   info:
     set_waypoint: 
