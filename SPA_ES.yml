@@ -1,179 +1,178 @@
-en:
+﻿SPA_ES:
   time_ago:
-    now: "just now"
-    one_minute_ago: "1 minute ago"
-    minutes_ago: " minutes ago"
-    one_hour_ago: "1 hour ago"
-    hours_ago: " hours ago"
-    yesterday: "yesterday"
-    days_ago: " days ago"
-    weeks_ago: " weeks ago"
-  none: "None"
+    now: 
+    one_minute_ago: 
+    minutes_ago: 
+    one_hour_ago: 
+    hours_ago: 
+    yesterday: 
+    days_ago: 
+    weeks_ago: 
+    none: 
   errors:
-    server: "Something went wrong. Please try again."
-    client: "Something went wrong. Please try again."
-    set_waypoint: "Could not set waypoint."
-    add_to_playlist: "Could not add to playlist."
-    deploy_weapon: "Could not deploy weapon."
+    server: 
+    client: 
+    set_waypoint: 
+    add_to_playlist: 
+    deploy_weapon: 
   info:
-    set_waypoint: "Waypoint successfully set."
-    add_to_playlist: "Playlist successfully added."
-    deploy_weapon: "Weapon deployed."
+    set_waypoint: 
+    add_to_playlist: 
+    deploy_weapon: 
   account:
-    sign_in: "Sign in"
-    sign_out: "Sign out"
+    sign_in: 
+    sign_out: 
   language:
-    choose_language: "Choose language"
+    choose_language: 
   dashboard:
-    profile: "Your profile"
+    profile: 
   feed_items:
     sign_up:
-      signed_up: "%{user} signed up to Network"
+      signed_up: 
     group_created:
-      group_created: "%{user} created the group %{group}"
+      group_created: 
     group_joined:
-      group_joined: "%{user} joined the group %{group}"
+      group_joined: 
   blog_feed_service:
-    title: "We could't get any posts from our blog"
-    description: "Follow the link and read news on the blog instead."
+    title: 
+    description: 
   friends_panel:
-    title: "Friends"
-    friends_online: "Friends online"
-    friends_offline: "Friends offline"
-    add_friends: "Add a new friend"
-    search_label: "Add friends"
-    search_button: "Search"
-    close: "Close"
+    title: 
+    friends_online: 
+    friends_offline: 
+    add_friends: 
+    search_label: 
+    search_button: 
+    close: 
   profile_panel:
-    show_all_groups: "Show all groups"
-    show_all_friends: "Show all friends"
-    add_friend: "Add as Friend"
-    compare: "Compare"
-    friends: "Friends"
-    groups: "Groups"
-    edit_avatar: "Change avatar"
-    upload_avatar: "Upload"
-    avatar_label: "Avatar image"
-    close: "Close"
-    pending_friendship_approval: "Pending approval"
+    show_all_groups: 
+    show_all_friends: 
+    add_friend: 
+    compare: 
+    friends: 
+    groups: 
+    edit_avatar: 
+    upload_avatar: 
+    avatar_label: 
+    close: 
+    pending_friendship_approval: 
     friends_tab:
-      search_label: "Add friends"
-      search_button: "Search"
-      accept_friend_request: "Accept"
-      reject_friend_request: "Reject"
-      remove_friend: "Remove friend"
-      invite_friend: "Add as Friend"
-      pending_friendship_approval: "Pending approval"
-      no_results_found: "No results found"
+      search_label: 
+      search_button: 
+      accept_friend_request: 
+      reject_friend_request: 
+      remove_friend: 
+      invite_friend: 
+      pending_friendship_approval: 
+      no_results_found: 
   blog_panel:
-    close: "Close"
-    blog: "Blog"
+    close: 
+    blog: 
   rival_selector:
-    select_rival_player: "Select rival player"
+    select_rival_player: 
   groups:
-    members: "Members"
-    group_name: "Group name"
-    create_a_group: "Create a group"
-    create_group: "Create group"
-    create_new_group: "Create new group"
-    name: "Name"
+    members: 
+    group_name: 
+    create_a_group: 
+    create_group: 
+    create_new_group: 
+    name: 
   collectible:
-    no_record: "No record"
-    set_waypoint: "Set Waypoint"
-    add_to_playlist: "Add to Playlist"
+    no_record: 
+    set_waypoint: 
+    add_to_playlist: 
   group_panel:
-    close: "Close"
-    leave_group: "Leave group"
-    join_group: "Join group"
-    founder: "Founder"
-    members: "Members"
+    close: 
+    leave_group: 
+    join_group: 
+    founder: 
+    members: 
     wall_tab:
-      post_wall_button: "Post message"
+      post_wall_button: 
   recommendations_panel:
-    title: "Recommendations"
-    close: "Close"
+    title: 
+    close: 
   media_panel:
-    title: "Media"
-    close: "Close"
+    title: 
+    close: 
   playlist_panel:
-    title: "Playlist"
-    close: "Close"
+    title: 
+    close: 
   cars_panel:
-    title: "Cars"
-    close: "Close"
+    title: 
+    close: 
   messages_panel:
-    title: "Messages"
-    close: "Close"
+    title: 
+    close: 
   rival_stats_panel:
-    title: "Rival Stats"
-    close: "Close"
+    title: 
+    close: 
   persona_switcher:
-    playing_as: "Playing as "
-    playing_on: "on "
+    playing_as: 
+    playing_on: 
   game_manager:
-    joined_game: "joined the game"
-    left_game: "left the game"
+    joined_game: 
+    left_game: 
   units:
-    scale: "metric"
-    sec: "sec"
-    distance: "km"
-    speed: "km/h"
-    meters: "m"
-    kilometers: "km"
-    yards: "yrd"
-    miles: "miles"
-    kmh: "km/h"
-    mph: "mph"
+    scale: 
+    sec: 
+    distance: 
+    speed: 
+    meters: 
+    kilometers: 
+    yards: 
+    miles: 
+    kmh: 
+    mph: 
   stats:
-    drift_distance: "Drift distance"
-    lockdown: "Lockdowns"
-    near_misses: "Near misses"
-    oncoming_distance: "Oncoming distance"
-    races_won: "Races won"
-    takedown: "Takedowns"
-    time_at_high_speed: "Time at high speed"
-    time_driven: "Time driven"
-    weapon_hits: "Weapon hits"
-    command_posts_discovered: "Command posts discovered"
-    distance_driven_cop: "Distance driven as Cop"
-    distance_driven_racer: "Distance driven as Racer"
-    hideouts_discovered: "Hideouts discovered"
-    jumps_completed: "Jumps completed"
-    longest_time_in_air: "Longest time in air"
-    percent_complete_cop: "Percentage of Cop progression completed"
-    percent_complete_racer: "Percentage of Racer progression completed"
-    speed_cameras_triggered: "Speed cameras triggered"
-    speed_zones_complete: "Speed zones completed"
-    time_in_air: "Total air time"
-    time_played_cop: "Time played as Cop"
-    time_played_racer: "Time Played as Racer"
-    top_speed: "Top speed"
-    racer_xp: "Racer total SP"
-    cop_xp: "Cop total SP"
-    racer_credits: "Racer current SP"
-    cop_credits: "Cop current SP"
-    cop_completed_objective_1: "Cop Rank"
-    racer_completed_objective_1: "Racer Rank"
-    speed: "speed"
-
+    drift_distance: 
+    lockdown: 
+    near_misses: 
+    oncoming_distance: 
+    races_won: 
+    takedown: 
+    time_at_high_speed: 
+    time_driven: 
+    weapon_hits: 
+    command_posts_discovered: 
+    distance_driven_cop: 
+    distance_driven_racer: 
+    hideouts_discovered: 
+    jumps_completed: 
+    longest_time_in_air: 
+    percent_complete_cop: 
+    percent_complete_racer: 
+    speed_cameras_triggered: 
+    speed_zones_complete: 
+    time_in_air: 
+    time_played_cop: 
+    time_played_racer: 
+    top_speed: 
+    racer_xp: 
+    cop_xp: 
+    racer_credits: 
+    cop_credits: 
+    cop_completed_objective_1: 
+    racer_completed_objective_1: 
+    speed: 
   models:
     collectible:
       type:
-        camera: "Speed Camera"
-        jump: "Jump"
-        speed_zone: "Speed Zone"
-        hideout: "Hideout"
-        command_post: "Command Post"
-        drive_through: "Drive Through"
+        camera: 
+        jump: 
+        speed_zone: 
+        hideout: 
+        command_post: 
+        drive_through: 
     recommendation:
       text:
-        "ID_HOT_STORY": "{EVENT} has been played {ATTEMPTS} times over the last day by {GAMERTAG}. Beat their {VALUE} to go {POSITION} in your SpeedWall."
-        "ID_POPULAR_STORY": "{GAMERTAG} is {SPEEDWALL_POS} with a {VALUE} on {EVENT}. Beat their {VALUE_TYPE} to take their place on the SpeedWall."
-        "ID_BEAT_YOU_STORY_ONE": "{GAMERTAG} beat you in {EVENT} with {VALUE_TYPE} {GAP} better than you. Beat their {VALUE_TYPE} to go {POSITION} in your SpeedWall."
-        "ID_BEAT_YOU_STORY_TWO": "{GAMERTAG} is Top of the SpeedWall with their first attempt of {EVENT} finishing with a {VALUE} better than you. Beat them to go {POSITION}."
-        "ID_BEAT_YOU_STORY_THREE": "{GAMERTAG} beat you by {GAP} to go Top in {EVENT}. Beat their time to go {POSITION} in your SpeedWall."
+        "ID_HOT_STORY": 
+        "ID_POPULAR_STORY": 
+        "ID_BEAT_YOU_STORY_ONE": 
+        "ID_BEAT_YOU_STORY_TWO": 
+        "ID_BEAT_YOU_STORY_THREE": 
     speedwall_row:
       value_types:
-        speed: "speed"
-        distance: "disatance"
-        AverageSpeed: "average speed"
+        speed: 
+        distance: 
+        AverageSpeed: 
